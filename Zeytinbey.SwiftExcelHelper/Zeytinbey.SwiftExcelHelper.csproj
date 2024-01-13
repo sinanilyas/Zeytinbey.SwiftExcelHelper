@@ -10,7 +10,7 @@
     <Authors>Sinan ILYAS</Authors>
     <Description>Zeytinbey.SwiftExcelHelper is an easy-to-use package that streamlines SwiftExcel tasks. Create Excel files effortlessly with handy helper classes and extension methods, making your workflow simpler and more efficient.</Description>
     <Copyright>All rights reserved.</Copyright>
-    <PackageProjectUrl>https://github.com/sinanilyas/Zeytinbey.DataTypes</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/sinanilyas/Zeytinbey.SwiftExcelHelper</PackageProjectUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <RepositoryUrl>$(PackageProjectUrl)</RepositoryUrl>
     <RepositoryType>git</RepositoryType>

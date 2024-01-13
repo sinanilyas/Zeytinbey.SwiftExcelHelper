@@ -11,11 +11,11 @@ Zeytinbey.SwiftExcelHelper is an easy-to-use package that streamlines SwiftExcel
 ```c#
 public class ExcelModel()
 {
-	[ExcelColumn(Header = "Full Name", Width = 15)]
-	public string FullName { get; set; };
+	[ExcelColumn(Header = "Full Name", Width = 20)]
+	public string? FullName { get; set; }
 
-	[ExcelColumn(Header = "Total Payment", Width = 8)]
-	public decimal TotalPayment { get; set; };
+	[ExcelColumn(Header = "Total Payment", Width = 15)]
+	public decimal TotalPayment { get; set; }
 }
 ```
 
