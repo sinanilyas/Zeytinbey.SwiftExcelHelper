@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>$(AssemblyName)</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Sinan ILYAS</Authors>
     <Description>Zeytinbey.SwiftExcelHelper is an easy-to-use package that streamlines SwiftExcel tasks. Create Excel files effortlessly with handy helper classes and extension methods, making your workflow simpler and more efficient.</Description>
     <Copyright>All rights reserved.</Copyright>
@@ -15,7 +15,7 @@
     <RepositoryUrl>$(PackageProjectUrl)</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>swiftexcel excel excelwriter exceldatawriter writer extension method helper class enumerable data list sheet</PackageTags>
-    <PackageReleaseNotes>Initial publish.</PackageReleaseNotes>
+    <PackageReleaseNotes>Now, the package recognizes Excel column headers not only from [ExcelColumn(Header="Title")] attributes but also from the widely-used [Display(Name="Title")] and [DisplayName("Title")] attributes.</PackageReleaseNotes>
     <NeutralLanguage>en-US</NeutralLanguage>
     <AssemblyVersion>$(Version).0</AssemblyVersion>
     <FileVersion>$(AssemblyVersion)</FileVersion>
